@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_marginLeft="30dp"
+              android:layout_marginRight="30dp"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="0dp"
+                  android:layout_weight="1.0"
+                  android:background="@color/steam_grey_dark"
+                  android:orientation="vertical">
+        <LinearLayout android:orientation="horizontal"
+                      android:id="@+id/addUser"
+                      android:layout_height="wrap_content"
+                      android:layout_width="wrap_content"
+                      android:paddingTop="2.5dp"
+                      android:paddingBottom="2.5dp"
+                      android:paddingLeft="25dp"
+                      android:paddingRight="25dp"
+                      android:layout_margin="2.5dp"
+                      android:background="@color/steam_grey"
+                      android:layout_gravity="center">
+            <ImageView android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/add_user"
+                    android:scaleType="fitXY"/>
+            <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/steam_grey_small"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center_vertical"
+                    android:text="ADD NEW USER"/>
+
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal"
+                      android:layout_height="wrap_content"
+                      android:layout_width="match_parent"
+                      android:visibility="gone">
+            <EditText android:layout_height="match_parent"
+                      android:layout_width="0dp"
+                      android:layout_weight="1.0"
+                      android:hint="STEAMID"
+                      android:inputType="number"
+                      android:id="@+id/idText"/>
+            <Button android:id="@+id/idEnter"
+                    android:layout_height="match_parent"
+                    android:layout_width="wrap_content"
+                    android:text="Enter"/>
+        </LinearLayout>
+        <ListView android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/userDataList"
+                      android:divider="@null"/>
+    </LinearLayout>
+    <RelativeLayout android:id="@+id/selectUserLip"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/steam_grey">
+        <TextView style="@style/steam_grey_small"
+                  android:typeface="sans"
+                  android:layout_marginLeft="10dp"
+                  android:layout_centerVertical="true"
+                  android:text="SELECT A USER..."/>
+        <ImageView android:layout_width="10dp"
+                   android:layout_height="10dp"
+                   android:scaleType="fitXY"
+                   android:src="@drawable/open_indicator"
+                   android:layout_alignParentRight="true"
+                   android:layout_alignParentBottom="true"
+                   android:layout_margin="4dp"/>
+    </RelativeLayout>
+
+</LinearLayout>

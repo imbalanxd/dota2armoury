@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Abaddon"
+        android:title="Abaddon"
+        android:icon="@drawable/abaddon"/>
+    <item android:id="@+id/Alchemist"
+        android:title="Alchemist"
+        android:icon="@drawable/alchemist"/>
+    <item android:id="@+id/Ancient_Apparition"
+        android:title="Ancient Apparition"
+        android:icon="@drawable/ancient_apparition"/>
+    <item android:id="@+id/Anti_Mage"
+        android:title="Anti Mage"
+        android:icon="@drawable/anti_mage"/>
+    <item android:id="@+id/Axe"
+        android:title="Axe"
+        android:icon="@drawable/axe"/>
+    <item android:id="@+id/Batrider"
+        android:title="Batrider"
+        android:icon="@drawable/batrider"/>
+    <item android:id="@+id/Beastmaster"
+        android:title="Beastmaster"
+        android:icon="@drawable/beastmaster"/>
+    <item android:id="@+id/Bloodseeker"
+        android:title="Bloodseeker"
+        android:icon="@drawable/bloodseeker"/>
+    <item android:id="@+id/Bounty_Hunter"
+        android:title="Bounty Hunter"
+        android:icon="@drawable/bounty_hunter"/>
+    <item android:id="@+id/Brewmaster"
+        android:title="Brewmaster"
+        android:icon="@drawable/brewmaster"/>
+</menu>

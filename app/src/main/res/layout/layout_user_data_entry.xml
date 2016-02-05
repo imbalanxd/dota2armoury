@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.example.D2Outfitter.ui.AddUserDisplay xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="5dp">
+    <ImageView android:id="@+id/userImage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/no_image"
+            android:background="@drawable/user_portrait_blue"/>
+    <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_toRightOf="@id/userImage">
+        <LinearLayout android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp">
+            <EditText android:layout_height="match_parent"
+                      android:layout_width="match_parent"
+                      style="@style/steam_grey_medium"
+                      android:background="@color/steam_grey"
+                      android:hint="STEAMID"
+                      android:inputType="number"
+                      android:id="@+id/idText"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</com.example.D2Outfitter.ui.AddUserDisplay>

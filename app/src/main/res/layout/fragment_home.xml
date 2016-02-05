@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <!--Currently selected user display-->
+    <LinearLayout android:id="@+id/currentUserContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/inventoryContainer">
+        <com.example.D2Outfitter.ui.CustomViewPager
+                android:id="@+id/homePager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <include layout="@layout/layout_item_info"/>
+
+    <com.example.D2Outfitter.ui.Drawer
+            xmlns:d2o="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/loginDrawer"
+            android:layout_width="fill_parent"
+            android:layout_height="400dp"
+            d2o:lip="20dp"
+            d2o:entry="top"
+            android:focusableInTouchMode="true">
+        <include android:id="@+id/selectUser"
+                 layout="@layout/layout_select_user"/>
+    </com.example.D2Outfitter.ui.Drawer>
+</LinearLayout>

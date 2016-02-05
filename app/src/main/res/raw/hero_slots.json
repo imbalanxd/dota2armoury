@@ -1,0 +1,860 @@
+[
+    {
+        "tag_npc_dota_hero_drow_ranger": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_legs",
+            "tag_misc",
+            "tag_taunt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_furion": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_neck",
+            "tag_taunt",
+            "tag_ability3"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_kunkka": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_legs",
+            "tag_neck",
+            "tag_gloves"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_bloodseeker": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_offhand_weapon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_sven": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_bounty_hunter": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_offhand_weapon",
+            "tag_armor"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_juggernaut": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_back",
+            "tag_legs",
+            "tag_taunt",
+            "tag_ability2"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_morphling": [
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_axe": [
+            "tag_weapon",
+            "tag_head",
+            "tag_belt",
+            "tag_armor",
+            "tag_misc",
+            "tag_taunt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_ursa": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_back",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_antimage": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_offhand_weapon",
+            "tag_armor",
+            "tag_taunt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_witch_doctor": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_taunt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_pudge": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_offhand_weapon",
+            "tag_taunt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_omniknight": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_faceless_void": [
+            "tag_weapon",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_body_head"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_death_prophet": [
+            "tag_head",
+            "tag_belt",
+            "tag_legs",
+            "tag_armor",
+            "tag_misc",
+            "tag_ability_ultimate"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_invoker": [
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_summon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_skywrath_mage": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_weaver": [
+            "tag_head",
+            "tag_arms",
+            "tag_back",
+            "tag_legs",
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_windrunner": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back",
+            "tag_offhand_weapon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_riki": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_offhand_weapon",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_dragon_knight": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_offhand_weapon",
+            "tag_shapeshift"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_earthshaker": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_chen": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_armor",
+            "tag_misc",
+            "tag_mount"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_phantom_lancer": [
+            "tag_weapon",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_queenofpain": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_crystal_maiden": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_taunt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_spectre": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_mirana": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_misc",
+            "tag_mount"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_nyx_assassin": [
+            "tag_weapon",
+            "tag_head",
+            "tag_back",
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_lina": [
+            "tag_head",
+            "tag_arms",
+            "tag_belt",
+            "tag_neck",
+            "tag_taunt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_warlock": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_offhand_weapon",
+            "tag_ability_ultimate"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_bristleback": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_back",
+            "tag_neck"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_silencer": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_offhand_weapon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_sniper": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_doom_bringer": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_tidehunter": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_back",
+            "tag_belt",
+            "tag_offhand_weapon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_spirit_breaker": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_templar_assassin": [
+            "tag_head",
+            "tag_shoulder",
+            "tag_armor"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_luna": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_offhand_weapon",
+            "tag_mount"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_broodmother": [
+            "tag_head",
+            "tag_back",
+            "tag_legs",
+            "tag_misc",
+            "tag_taunt",
+            "tag_ability1"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_abaddon": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back",
+            "tag_mount"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_keeper_of_the_light": [
+            "tag_weapon",
+            "tag_head",
+            "tag_belt",
+            "tag_armor",
+            "tag_mount"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_naga_siren": [
+            "tag_weapon",
+            "tag_head",
+            "tag_offhand_weapon",
+            "tag_legs",
+            "tag_armor"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_enchantress": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_belt",
+            "tag_neck"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_lone_druid": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_ability_ultimate",
+            "tag_summon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_necrolyte": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_body_head"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_lion": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_razor": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_belt",
+            "tag_armor"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_legion_commander": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_dark_seer": [
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_clinkz": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back",
+            "tag_gloves"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_alchemist": [
+            "tag_weapon",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_offhand_weapon",
+            "tag_armor",
+            "tag_neck"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_pugna": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_ability3"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_tusk": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_neck"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_chaos_knight": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_offhand_weapon",
+            "tag_mount"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_sand_king": [
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_legs",
+            "tag_body_head"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_skeleton_king": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_slark": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_rubick": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_phantom_assassin": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_shadow_shaman": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_belt",
+            "tag_offhand_weapon",
+            "tag_summon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_centaur": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_belt",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_beastmaster": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_summon",
+            "tag_ability2"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_ogre_magi": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_back",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_dazzle": [
+            "tag_weapon",
+            "tag_arms",
+            "tag_back",
+            "tag_legs",
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_earth_spirit": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_belt",
+            "tag_neck",
+            "tag_ability4"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_obsidian_destroyer": [
+            "tag_weapon",
+            "tag_head",
+            "tag_back",
+            "tag_armor"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_batrider": [
+            "tag_head",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_mount"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_ember_spirit": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_offhand_weapon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_storm_spirit": [
+            "tag_head",
+            "tag_arms",
+            "tag_armor"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_disruptor": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_legs"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_lycan": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_belt",
+            "tag_armor",
+            "tag_summon",
+            "tag_ability4"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_leshrac": [
+            "tag_head",
+            "tag_back",
+            "tag_misc",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_gyrocopter": [
+            "tag_weapon",
+            "tag_head",
+            "tag_offhand_weapon",
+            "tag_ability2"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_brewmaster": [
+            "tag_weapon",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_offhand_weapon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_puck": [
+            "tag_head",
+            "tag_back",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_meepo": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_slardar": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_huskar": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_offhand_weapon"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_lich": [
+            "tag_arms",
+            "tag_back",
+            "tag_belt",
+            "tag_neck"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_medusa": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_armor",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_life_stealer": [
+            "tag_head",
+            "tag_arms",
+            "tag_back",
+            "tag_belt"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_tinker": [
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_vengefulspirit": [
+            "tag_weapon",
+            "tag_head",
+            "tag_shoulder",
+            "tag_legs"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_shadow_demon": [
+            "tag_back",
+            "tag_belt",
+            "tag_armor",
+            "tag_tail"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_elder_titan": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_back"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_magnataur": [
+            "tag_weapon",
+            "tag_head",
+            "tag_arms",
+            "tag_belt",
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_rattletrap": [
+            "tag_weapon",
+            "tag_head",
+            "tag_armor",
+            "tag_misc",
+            "tag_ability2"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_tiny": [
+            "tag_misc"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_venomancer": [
+            "tag_head",
+            "tag_arms",
+            "tag_shoulder",
+            "tag_tail",
+            "tag_ability3"
+        ]
+    },
+    {
+        "tag_npc_dota_hero_terrorblade": [
+            "tag_head"
+        ]
+    }
+]

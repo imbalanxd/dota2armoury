@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="steam_large" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="steam_green_large" parent="steam_large">
+        <item name="android:textColor">@color/steam_text_green</item>
+    </style>
+    <style name="steam_small" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="steam_grey_small" parent="steam_small">
+        <item name="android:textColor">@color/steam_text_grey</item>
+    </style>
+    <style name="steam_blue_small" parent="steam_small">
+        <item name="android:textColor">@color/steam_text_blue</item>
+    </style>
+    <style name="steam_dark_blue_small" parent="steam_small">
+        <item name="android:textColor">@color/steam_text_dark_blue</item>
+    </style>
+    <style name="steam_medium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="steam_grey_medium" parent="steam_medium">
+        <item name="android:textColor">@color/steam_text_grey</item>
+    </style>
+    <style name="steam_blue_medium" parent="steam_medium">
+        <item name="android:textColor">@color/steam_text_blue</item>
+    </style>
+    <style name="steam_dark_blue_medium" parent="steam_medium">
+        <item name="android:textColor">@color/steam_text_dark_blue</item>
+    </style>
+    <style name="steam_tiny" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">8dp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="steam_grey_tiny" parent="steam_tiny">
+        <item name="android:textColor">@color/steam_text_grey</item>
+    </style>
+    <style name="steam_blue_tiny" parent="steam_tiny">
+        <item name="android:textColor">@color/steam_text_blue</item>
+    </style>
+    <style name="steam_dark_blue_tiny" parent="steam_tiny">
+        <item name="android:textColor">@color/steam_text_dark_blue</item>
+    </style>
+    <color name="steam_grey_light">#515151</color>
+    <color name="steam_grey">#262626</color>
+    <color name="steam_grey_dark">#121212</color>
+    <color name="steam_text_grey">#c4c4c4</color>
+    <color name="steam_text_blue">#55a5c4</color>
+    <color name="steam_text_dark_blue">#3e7389</color>
+    <color name="steam_text_green">#8fb93b</color>
+    <color name="steam_text_dark_green">#67822f</color>
+    <color name="item_common">#b0c3d4</color>
+    <color name="item_uncommon">#5e98d9</color>
+    <color name="item_rare">#4264ff</color>
+    <color name="item_mythical">#8847ff</color>
+    <color name="item_immortal">#deae39</color>
+    <color name="item_legendary">#d32ce6</color>
+    <color name="item_arcana">#ade55c</color>
+    <color name="item_ancient">#eb4b4b</color>
+</resources>
